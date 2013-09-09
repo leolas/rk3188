@@ -1,0 +1,10 @@
+qx1 720p vsfsam
+qx1 720p vsfsam cpu1800 ddr600
+qx1 720p vsfsam cpu1800 ddr720 gpu798
+qx1 720p vsfsam cpu1920h ddr720 gpu798
+qx1 720p vsfsam cpu1920h ddr720 gpu798 cfgia
+qx1 1080p vsfsam
+qx1 1080p vsfsam cpu1800 ddr600
+qx1 1080p vsfsam cpu1800 ddr720 gpu798
+qx1 1080p vsfsam cpu1920h ddr720 gpu798
+qx1 1080p vsfsam cpu1920h ddr720 gpu798 cfgia

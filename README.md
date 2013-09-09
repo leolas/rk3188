@@ -1,3 +1,9 @@
+Sources from the phjanderson github, some minor changes to adapt them to qx1. I need to submit them to him.
+
+Thanks to all people who colaborate in this sources: Andykirby, linuxium, alok, galland, 0lek, omegamoon, thesawolf, sam321, phjandrson, hoaby, etc...
+
+Included the fanstatic tool marvin /in the marvin/ folder) thanks to phjanderson for do it. It saves a lot of time compiling multiple kernels ;)
+
 Marvin
 ======
 Marvin the Paranoid Android Kernel Builder  
